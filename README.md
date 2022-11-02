@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Creator)`**
 
-I'm an indie full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.  
+I'm an indie full-stack developer building my version of the digital world one step at a time. Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 
 
 ---
@@ -38,3 +38,14 @@ I'm an indie full-stack developer building my version of the digital world one s
  <summary><h3>👨‍💻 James's Coding Journey</h3></summary>
 
 
+---
+
+#### Want to Build Your Own?
+
+Do you like my profile and want to build your own? It's very simple. GitHub recently added a new feature called **Profile Readmes**. For it to work, do the following:
+
+1. Create a *special* GitHub repository with your username as repository name. My username is `Hartrampf` so my profile readme repository has the name `Hartrampf`.
+1. Add a `README.md` to this repository.
+1. Put some cool content about yourself (or anything you want) into `README.md`.
+
+And that's about it. The `README.md` of your profile readme repository will be displayed on your profile page. If you need inspiration, you can check out [this repository](https://github.com/abhisheknaiidu/awesome-github-profile-readme) which contains a curated list of nice profile readme repositories.
