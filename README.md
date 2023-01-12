@@ -27,9 +27,9 @@ An indie full-stack developer building my version of the digital world one step 
 
 ### 📺 Latest Projects
 
-[<img title="My Portfolio" src="./assests/portfolio.png" width ="300" />](https://my-portfolio-mk0ilkyg0-jamesxalis.vercel.app/)
-[<img title="Admin Dashboard Made From React" src="./assests/reactDash.jpg" width ="300"/>](https://jamesxalis.github.io/React-Dashboard/)
-[<img title="Card Battle" src="./assests/cardBattle.gif" width ="300"/>](https://card-battle.herokuapp.com/)
+[<img title="My Portfolio" src="./assests/portfolio.png" width ="250" />](https://my-portfolio-mk0ilkyg0-jamesxalis.vercel.app/)
+[<img title="Admin Dashboard Made From React" src="./assests/reactDash.jpg" width ="250"/>](https://jamesxalis.github.io/React-Dashboard/)
+[<img title="Card Battle" src="./assests/cardBattle.gif" width ="250"/>](https://card-battle.herokuapp.com/)
 
 
 #
