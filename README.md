@@ -2,7 +2,8 @@
 
 **`Digital Craftsman (Developer/Creator)`**
 
-An indie full-stack developer building my version of the digital world one step at a time. Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
+
+Highly skilled software engineer with experience in developing and deploying multiple dropshipping websites using various frameworks and libraries. Proficient in collaborating with clients to gather requirements and delivering high-quality products through best practices in coding, testing, and deployment. Strong communicator and problem-solver with a passion for driving operational efficiencies and delivering innovative solutions. Committed to continuous learning and excellence.
 
 
 ---
